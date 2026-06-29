@@ -43,6 +43,6 @@
 
 ## GitHub Stats
 
-![Saloni's GitHub stats](https://github-readme-stats.vercel.app/api?username=20saloni10b-collab&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=20saloni10b-collab&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=20saloni10b-collab&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=20saloni10b-collab&layout=compact&theme=tokyonight)
