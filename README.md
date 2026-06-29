@@ -36,10 +36,11 @@
 - RAG Systems
 - Computer Vision
 
-🚀 Upcoming Projects:
-- Multi-Modal Environmental Risk Assessment Using Satellite and Tabular Data Fusion
-- AI-based Earthquake Prediction Research
-- Advanced RAG Application Development
+ 🚀 Upcoming Projects:
+- 🌍 Multi-Modal Environmental Risk Assessment Using Satellite and Tabular Data Fusion
+- 🌋 AI-based Earthquake Prediction Research
+- 🤖 Advanced RAG Application Development
+
 
 ## GitHub Stats
 
